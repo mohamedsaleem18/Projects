@@ -5,6 +5,14 @@
 		},
 		{
 			"path": "hello-nodejs"
+		},
+		{
+			"name": "DO180-apps",
+			"path": "DO180-apps"
+		},
+		{
+			"name": "DO180-apps",
+			"path": "DO180-apps\\DO180-apps"
 		}
 	]
 }
